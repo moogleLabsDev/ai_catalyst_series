@@ -59,11 +59,11 @@ def generate_image(prompt_text: str):
 # Main testing script
 if __name__ == "__main__":
     # Set environment variables for Google Cloud and Firebase
-    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'sjmain.json'
+    os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 's.json'
 
     # Initialize Firebase
     cred = credentials.Certificate(os.getenv('GOOGLE_APPLICATION_CREDENTIALS'))
-    firebase_bucket_path = 'sjmain-424711.appspot.com'
+    firebase_bucket_path = ''
     firebase_admin.initialize_app(cred, {'storageBucket': firebase_bucket_path})
 
     # Test prompts
