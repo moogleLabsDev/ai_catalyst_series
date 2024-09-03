@@ -2,8 +2,8 @@ This folder provides the materials from the "Transforming vision via Art with Di
 
 **Contents:**
 
-google_imagen.py: generate images with google's imagen model via this code. You need to pass API key in code
-text_to_image_sdxl.py: generate images with stable diffuison XL model via this code.
+- google_imagen.py: generate images with google's imagen model via this code. You need to pass API key in code
+- text_to_image_sdxl.py: generate images with stable diffuison XL model via this code.
 
 **Instructions:**
 
