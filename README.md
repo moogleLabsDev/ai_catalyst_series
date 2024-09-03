@@ -1,6 +1,4 @@
-# AI Catalyst Series
-
-Welcome to the **AI Catalyst Series** repository! 🎉
+Welcome to the MoogleLabs **AI Catalyst Series** repository! 🎉
 
 This is a curated collection of events designed to ignite your passion for AI. Dive into a range of topics about building AI applications
 
