@@ -11,6 +11,7 @@ langchain_agent.ipynb: Practical example of LLM agent built using Langchain fram
 - Create a virtual environment in python using venv
 - Install Autogen and langchain framework using pip instructions in notebook. Uncomment them first.
   To install flowise follow this reference: https://github.com/FlowiseAI/Flowise
+
   Once you open flowise, choose load chatflow option in top right corner to load the json file
 - Review the examples and templates
 - Modify them as needed to suit your specific use case
