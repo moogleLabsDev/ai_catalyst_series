@@ -16,8 +16,8 @@ logger = logging.getLogger(__name__)
 
 # Function to generate image
 def generate_image_base64(prompt_text: str):
-    location = 'europe-west2'
-    project_id = "sjmain-424711"
+    location = ''
+    project_id = ""
     vertexai.init(project=project_id, location=location)
     model = ImageGenerationModel.from_pretrained("imagegeneration@006")
     images = []
