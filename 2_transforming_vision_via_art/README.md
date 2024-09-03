@@ -7,5 +7,5 @@ text_to_image_sdxl.py: generate images with stable diffuison XL model via this c
 
 **Instructions:**
 
-Explore the model configurations and examples in the code
-Adjust the parameters in the scripts to create your own unique art.
+- Explore the model configurations and examples in the code
+- Adjust the parameters in the scripts to create your own unique art.
