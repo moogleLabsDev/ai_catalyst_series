@@ -1,1 +1,1 @@
-# ai_catalyst_series
+# AI Catalyst Series
