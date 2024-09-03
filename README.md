@@ -21,4 +21,4 @@ We welcome contributions to improve our resources and code! If you have suggesti
 ## 🌟 Stay Connected
 
 Follow us for updates and more events:
-- **[Linkedin](#)**: Get the latest news and insights.
+- **[Linkedin](https://www.linkedin.com/company/mooglelabs/posts/?feedView=all)(#)**: Get the latest news and insights.
