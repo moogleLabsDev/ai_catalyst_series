@@ -15,5 +15,4 @@ This folder contains resources from the "Low Code No Code" session of the AI Cat
 
   Once you open flowise, choose load chatflow option in top right corner to load the json file
 - Review the examples and templates
-- Modify them as needed to suit your specific use case
-- Run the provided code using the included instructions
+- Modify and run them as needed to suit your specific use case
