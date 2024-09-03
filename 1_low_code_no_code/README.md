@@ -2,15 +2,16 @@ This folder contains resources from the "Low Code No Code" session of the AI Cat
 
 **Contents:**
 
-autogen.ipynb: Practical example of LLM agent built using Autogen framework.
-flowise_rag.json: RAG chatflow made in flowise
-langchain_agent.ipynb: Practical example of LLM agent built using Langchain framework.
+- autogen.ipynb: Practical example of LLM agent built using Autogen framework.
+- flowise_rag.json: RAG chatflow made in flowise
+- langchain_agent.ipynb: Practical example of LLM agent built using Langchain framework.
 
 **Instructions:**
 
 - Create a virtual environment in python using venv
 - Install Autogen and langchain framework using pip instructions in notebook. Uncomment them first.
-  To install flowise follow this reference: https://github.com/FlowiseAI/Flowise
+- For using Autogen, add your openAI API key in the OAI_CONFIG_LIST file
+- To install flowise follow this reference: https://github.com/FlowiseAI/Flowise
 
   Once you open flowise, choose load chatflow option in top right corner to load the json file
 - Review the examples and templates
