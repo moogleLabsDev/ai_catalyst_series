@@ -1,3 +1,6 @@
+Link for Presentation: 
+https://www.figma.com/slides/Hx59qomuLmLfUE4R93uSh9/MLOps-%26-Retrieval-Augmented-Generation?node-id=1-1817&t=VvmlQTKoOMlh3DK9-1
+
 This folder includes resources from the "MLOPS & RAG - part 1" session. It covers techniques and strategies for creating efficient naive RAG pipeline.
 
 Contents:
