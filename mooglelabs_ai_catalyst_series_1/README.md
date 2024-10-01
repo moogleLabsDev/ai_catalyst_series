@@ -1,3 +1,5 @@
+Link to presentation: https://admincerebruminfotech-my.sharepoint.com/:p:/g/personal/vashistanush_mooglelabs_com/EYL-rbhVSmtBryc71ZsqVpUB293sJzGqgb6lBqEWv81B4w?e=XCoQgk
+
 This folder contains resources from the "Low Code No Code" session of the MoogleLabs AI Catalyst Series. It includes examples and templates to help you build AI applications with minimal coding effort.
 
 **Contents:**
